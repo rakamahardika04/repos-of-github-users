@@ -1,0 +1,39 @@
+.stargazers-img{
+    width: 16px;
+    height: 16px;
+}
+
+.searchaccordion-body-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: lightgray;
+    margin: 6px 0px 0px 6px;
+}
+
+.searchaccordion-headline {
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.searchaccordion-stargazers {
+    display: flex;
+}
+
+.stargazers-img {
+    margin-left: 5px;
+}
+
+.input-searchreposform {
+    border-radius: 0px;
+}
+
+.btn-submit {
+    width: 100%;
+    border-radius: 0px;
+}
+
+.accordion-breadcumb {
+    margin-bottom: 8px;
+    color: grey;
+}
